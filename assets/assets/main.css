@@ -58,6 +58,10 @@ section:hover {
     transform: translateY(-5px);
 }
 
+#what_is{
+    padding-bottom: 70px;
+}
+
 h2 {
     color: #333;
 }
@@ -87,4 +91,10 @@ footer {
 #footer{
     background-color: darkseagreen;
     margin-bottom: 70px;
+}
+
+img {
+    width: 250px;
+    float: right;
+    border-radius: 20px;
 }
